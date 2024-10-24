@@ -1,0 +1,5 @@
+name = input('What is your name\n')
+petName = input('What is your pet name\n')
+# print(name)
+# print(petName)
+print('Hello ' + name + ' and hello ' + petName)
