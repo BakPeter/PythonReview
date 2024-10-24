@@ -2,31 +2,17 @@
 
 ## Table of content
 
-<!-- - [Content section](#content-section)
-  - [Content section 1](#content-sub-section-1)
-  - [Content section 2](#content-sub-section-2)
-- [Comments](#comments) -->
-
 - [Udemy Course](#udemy-course)
-  - [Udemy Course sub section 1](#udemy-course-sub-section-1)
-  - [Udemy Course sub section 2](#udemy-course-sub-section-2)
-- [Comments](#comments)
+  - [Links](#links)
+- [Comments](# comments)
 
-<!-- ### Content Section
-
-**[`^ top ^`](#python-review)** | **[`^ table of content ^`](#table-of-content)**
-
-#### Content Sub Section 1
-
-#### Content Sub Section 2 -->
-
-### Udemy Course
+## Udemy Course
 
 **[`^ top ^`](#python-review)** | **[`^ table of content ^`](#table-of-content)**
 
-#### Udemy Course sub section 1
+### Links
 
-#### Udemy Course sub section 2
+- https://www.udemy.com/course/100-days-of-code/?couponCode=MTST7102224A2
 
 ### Comments
 
